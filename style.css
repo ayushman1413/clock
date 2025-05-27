@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: salmon;
+  background-color: rgb(109, 106, 105);
 }
 
 img {
@@ -104,3 +104,6 @@ img {
  
 }
 
+footer{
+    margin-top: 20vh;
+}
